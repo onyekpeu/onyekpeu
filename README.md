@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uche Onyekpe
-- 👀 I’m interested in cyberphysical systems, machine learning applications and complex neural networks
-- 📫 You can reach me on onyekpeu@outlook.com
+- 👀 I’m interested in efficient machine learning applications
+- 📫 You can reach me on u.onyekpe@yorsj.ac.uk
 
 <!---
 onyekpeu/onyekpeu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
